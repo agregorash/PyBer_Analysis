@@ -16,7 +16,7 @@ On a surface level, it is evident that Urban cities generally have the most driv
 ### Ride Data
 ![Ride-box-wisk](https://github.com/agregorash/PyBer_Analysis/blob/main/analysis/Fig2.png)
 
-A deeper look at the ride count data shows that Urban cities averaged about 24 rides, with a standard deviation of about 3.5 and one outlier in the dataset at 39 rides; Suburban cities averaged about 17 rides with a standard deviation of 2.5; and Rural cities averaged about 6 rides with a standard deviation of about 1.5.
+A deeper look at the ride count data shows that Urban cities averaged about 24 rides, with a standard deviation of about 3.5 and one outlier in the dataset at 39 rides; Suburban cities averaged about 17 rides with a standard deviation of 2.5; and Rural cities averaged about 6 rides with a standard deviation of about 1.5.                                
 ![Ride-pie](https://github.com/agregorash/PyBer_Analysis/blob/main/analysis/Fig6.png)
 
 Urban cities accounted for about two thirds of the total ride count, with Suburban cities accounting for about a quarter and Rural cities accounting for just 5%.
