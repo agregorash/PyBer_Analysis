@@ -24,7 +24,7 @@ Urban cities accounted for about two thirds of the total ride count, with Suburb
 ### Driver Data
 ![Driver-box-wisk](https://github.com/agregorash/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
-Driver counts for Urban cities have a very large spread, 70 drivers with the min being 3 and the max totaling 73.  The average driver count is about 37 with a large standard deviation just over 20.  Suburban and Rural cities have a much smaller spread, of 24 and 8 respectively; and averages of 16 and 4 respectively.
+Driver counts for Urban cities have a very large spread, 70 drivers with the min being 3 and the max totaling 73.  The average driver count is about 37 with a large standard deviation just over 20.  Suburban and Rural cities have a much smaller spread, of 24 and 8 respectively; and averages of 16 and 4 respectively.                               
 ![Driver-pie](https://github.com/agregorash/PyBer_Analysis/blob/main/analysis/Fig7.png)
 
 Urban cities account for just over 80% of PyBer's drivers in this data set.  Suburban and Rural cities make up less than a fifth of the total drivers.
