@@ -7,7 +7,7 @@ Shortly after starting as an analyst for a ride-sharing company, PyBer, I have b
 ## Resources
 - Data Sources: [city_data.csv](https://github.com/agregorash/PyBer_Analysis/blob/main/Resources/city_data.csv), [ride_data.csv](https://github.com/agregorash/PyBer_Analysis/blob/main/Resources/ride_data.csv)
                
- - Software: Python 3.8.3, Jupyter Notebooks, Anaconda 3 
+Python 3.8.3, Jupyter Notebooks
 
 ## Results
 On a surface level, it is evident that Urban cities generally have the most drivers and rides, but the lowest fare.  Rural cities tend to have the least amount of drivers and rides, but the highest fare; while the Suburban cities lie in the middle for these three variables.
